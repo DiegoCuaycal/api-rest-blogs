@@ -15,3 +15,5 @@ app.use(require('../routes/index'))
 app.use('/', (req, res) => (res.send('Bienvenido a mi API-Piseria')))
 app.listen(3000)
 console.log('Server running in: http://localhost:3000');
+
+
