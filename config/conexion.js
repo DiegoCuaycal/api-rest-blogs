@@ -2,7 +2,7 @@ const pgPromise = require('pg-promise');
 const config = {
     host: 'localhost',
     port: '5432',
-    database: 'BlogSystem',
+    database: 'Pizza', // cambios de la base
     user: 'postgres',
     password: 'Diego20'
 }

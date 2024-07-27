@@ -1,7 +1,7 @@
 {
-  "name": "api-rest-pizza",
+  "name": "api-rest-blogs",
   "version": "1.0.0",
-  "description": "API REST Pizza, API para la administración de pizzas",
+  "description": "API REST Blogs, API para la administración de publicaciones",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
