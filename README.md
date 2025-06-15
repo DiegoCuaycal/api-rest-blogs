@@ -22,3 +22,6 @@ API REST ligera que permite gestionar publicaciones, comentarios, autores, likes
 | **DELETE**  | `/blogs`  | Eliminar un comentario por su ID             | ⚙️ `com_id` (query) – ID del comentario |
 | **GET**     | `/blogs`  | Consultas avanzadas (joins, conteos, likes…) | — (sin parámetros) |
 
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
